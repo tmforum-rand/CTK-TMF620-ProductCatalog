@@ -808,7 +808,7 @@
 							}
 						],
 						"url": {
-							"raw": "{{Product_Catalog}}productSpecification?lastUpdate=\"{{LASTUPDATEPS01}}\"",
+							"raw": "{{Product_Catalog}}productSpecification?lastUpdate={{LASTUPDATEPS01}}",
 							"host": [
 								"{{Product_Catalog}}productSpecification"
 							],
@@ -2082,7 +2082,7 @@
 							}
 						],
 						"url": {
-							"raw": "{{Product_Catalog}}productOffering?lastUpdate=\"{{LASTUPDATEPO01}}\"",
+							"raw": "{{Product_Catalog}}productOffering?lastUpdate={{LASTUPDATEPO01}}",
 							"host": [
 								"{{Product_Catalog}}productOffering"
 							],
@@ -3492,7 +3492,7 @@
 							}
 						],
 						"url": {
-							"raw": "{{Product_Catalog}}productOfferingPrice?lastUpdate=\"{{LASTUPDATEPOP01}}\"",
+							"raw": "{{Product_Catalog}}productOfferingPrice?lastUpdate={{LASTUPDATEPOP01}}",
 							"host": [
 								"{{Product_Catalog}}productOfferingPrice"
 							],
