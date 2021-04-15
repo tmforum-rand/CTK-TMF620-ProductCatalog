@@ -815,7 +815,7 @@
 							"query": [
 								{
 									"key": "lastUpdate",
-									"value": "\"{{LASTUPDATEPS01}}\""
+									"value": "{{LASTUPDATEPS01}}"
 								}
 							]
 						},
@@ -2089,7 +2089,7 @@
 							"query": [
 								{
 									"key": "lastUpdate",
-									"value": "\"{{LASTUPDATEPO01}}\""
+									"value": "{{LASTUPDATEPO01}}"
 								}
 							]
 						},
@@ -3499,7 +3499,7 @@
 							"query": [
 								{
 									"key": "lastUpdate",
-									"value": "\"{{LASTUPDATEPOP01}}\""
+									"value": "{{LASTUPDATEPOP01}}"
 								}
 							]
 						},
